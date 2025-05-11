@@ -8,7 +8,7 @@ Tested on both Windows 10 and Windows 11.
 # Video Tutorial to Download raylib_installer_v5.5.exe
 
 <p align="center">
-  <img src="https://Project Code/Ping Pong Game Code/Ping Pong Project.jpg" alt="" width="800">
+  <img src="Project Code/Ping Pong Project.jpg" alt="" width="800">
 </p> 
 
 
