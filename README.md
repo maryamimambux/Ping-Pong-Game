@@ -36,5 +36,5 @@ Manual testing ensured correct paddle-ball collisions, scoring logic, and respon
 The game runs smoothly with clean, maintainable code using OOP practices.
 
 ## Links
-- [Google Drive: Project Proposal PDF](https://drive.google.com/your-proposal-link)
-- [Google Drive: Project Report PDF](https://drive.google.com/your-report-link)
+- [Google Drive: Project Proposal PDF]([https://drive.google.com/your-proposal-link](https://drive.google.com/file/d/1ueiyrJvadDOvN088bAWUOXOdEJXcPt-s/view?usp=drive_link))
+- [Google Drive: Project Report PDF]([https://drive.google.com/your-report-link](https://drive.google.com/file/d/1ah6UFd2qOFTuSYUynHtg-e-JW4zqoMje/view?usp=drive_link))
